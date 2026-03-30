@@ -1,6 +1,6 @@
 # CSE0001 Digital Literacy Project
 
-**Student Digital Literacy Portfolio for VIT Bhopal University**
+**Digital Literacy Portfolio **
 
 [![Course](https://img.shields.io/badge/Course-CSE0001-blue)](https://www.vitbhopal.ac.in/)
 [![Module](https://img.shields.io/badge/Module-Digital%20Literacy-green)](https://www.vitbhopal.ac.in/)
