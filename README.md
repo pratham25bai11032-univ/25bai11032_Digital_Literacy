@@ -38,33 +38,33 @@ The main objectives of this Project are:
 ### Module 1: Digital Literacy Awareness
 - Created a visual artifact on digital literacy concepts and safe online practices.
 - Focused on the importance of digital tools, responsible internet use, and maintaining a professional online presence.
-- File: `Digital_literacy/task1/Digital Literacy.png`
+- File: `Digital_literacy/task-1-presentation/Digital Literacy.png`
 
 ### Module 2: Student Digital Portfolio
 - Built and documented profiles on relevant digital platforms for academic and professional identity.
 - Portfolio evidence includes GitHub, Kaggle, and Stack Overflow profile screenshots.
-- Files: `Digital_literacy/task2/Github profile.png`, `Digital_literacy/task2/keggle profile.png`, `Digital_literacy/task2/Stackoverflow profile.png`
+- Files: `Digital_literacy/task-2-portfolio/Github profile.png`, `Digital_literacy/task-2-portfolio/keggle profile.png`, `Digital_literacy/task-2-portfolio/Stackoverflow profile.png`
 
 ### Module 3: Coding and Collaboration Platforms
 - Completed activity related to coding or collaboration platforms and documented progress with screenshots.
 - Included evidence of engagement with digital tools used for learning or assessment.
-- File: `Digital_literacy/task3/Screenshot 2026-03-28 185914.png`
+- File: `Digital_literacy/task-3-platforms/Screenshot 2026-03-28 185914.png`
 
 ### Module 4: Professional Email and Online Etiquette
 - Prepared professional email communication samples.
 - Included a checklist of social media do's and don'ts to reflect proper digital conduct.
-- Files: `Digital_literacy/task4/Email_ettiquite.pdf`, `Digital_literacy/task4/5 do and dont.pdf`
+- Files: `Digital_literacy/task-4-email-etiquette/Email_ettiquite.pdf`, `Digital_literacy/task-4-email-etiquette/5 do and dont.pdf`
 
 ### Module 5: Cybercrime Awareness
 - Wrote a case study on cybercrime and online payment fraud.
 - Added a prevention checklist with practical safety measures for students.
-- Files: `Digital_literacy/task5/casestudy.md`, `Digital_literacy/task5/prevention-checklist.md`
+- Files: `Digital_literacy/task-5-cybercrime/casestudy.md`, `Digital_literacy/task-5-cybercrime/prevention-checklist.md`
 
 ## Links
 
-- GitHub Profile: `Add your GitHub profile link here`
-- Kaggle Profile: `Add your Kaggle profile link here`
-- Stack Overflow Profile: `Add your Stack Overflow profile link here`
+- GitHub Profile: `https://github.com/pratham25bai11032-univ`
+- Kaggle Profile: `https://www.kaggle.com/zevmisc`
+- Stack Overflow Profile: `https://stackoverflow.com/users/32547705/zev-misc`
 - Google Form / Quiz Link: `Add your Google Form link here`
 - Repository Link: `Add your GitHub repository link here`
 
